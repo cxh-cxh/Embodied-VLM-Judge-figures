@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.2.3">
   <diagram name="第 1 页" id="IuIpj2X9DTV7a9tfboCk">
-    <mxGraphModel dx="3062" dy="706" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2935" dy="1449" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,6 +454,39 @@
         </mxCell>
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-236" value="&amp;lt;figure&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="694.47" width="65" height="63.06" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-60" width="198.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30.004999999999995" y="-4.9950000000000045" width="228.255" height="50.620000000000005" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#000000;" vertex="1" parent="2U-sOm1JX4IMPe51Hoyo-7">
+          <mxGeometry x="74.32499999999999" y="26.745000000000005" width="27.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="2U-sOm1JX4IMPe51Hoyo-7">
+          <mxGeometry x="31.38" y="20" width="113.63" height="3.75" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-6" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=90;fillColor=#000000;" vertex="1" parent="2U-sOm1JX4IMPe51Hoyo-7">
+          <mxGeometry x="139.44" y="-10.309999999999999" width="10.26" height="49.88" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-8" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=90;fillColor=#000000;" vertex="1" parent="2U-sOm1JX4IMPe51Hoyo-7">
+          <mxGeometry x="26.004999999999995" y="-10.004999999999995" width="10.26" height="49.88" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-9" value="Hard&lt;div&gt;setting&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33.00999999999999" y="-50" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-10" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;line-height: 80%; font-size: 9px;&quot;&gt;Easy&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;line-height: 80%; font-size: 9px;&quot;&gt;setting&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=-1;" vertex="1" parent="1">
+          <mxGeometry x="160.01" y="-21" width="30.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-55" width="198.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-15" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-31.269999999999996" width="33.57526033449038" height="45.54545454545456" as="geometry" />
+        </mxCell>
+        <mxCell id="2U-sOm1JX4IMPe51Hoyo-16" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="426.42" y="-31.269999999999996" width="33.57526033449038" height="45.54545454545456" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
