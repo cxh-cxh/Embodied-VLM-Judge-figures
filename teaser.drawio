@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="第 1 页" id="IuIpj2X9DTV7a9tfboCk">
-    <mxGraphModel dx="3791" dy="1195" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="971" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,8 +51,8 @@
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lab 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;fontSize=19;spacingBottom=3;strokeWidth=2;" parent="SBJIOkQ2_eh-6NDm1D8v-26" vertex="1">
           <mxGeometry width="84" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="SBJIOkQ2_eh-6NDm1D8v-25" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="SBJIOkQ2_eh-6NDm1D8v-26" vertex="1">
-          <mxGeometry x="25.207952035342352" y="7.590909090909092" width="33.57526033449038" height="45.54545454545456" as="geometry" />
+        <mxCell id="PFxtjB-Ogl9lNshXrnTc-29" value="&amp;lt;figure&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SBJIOkQ2_eh-6NDm1D8v-26">
+          <mxGeometry x="18" y="10" width="48" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-89" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="310" y="505.87" width="139" height="91.75" as="geometry" />
@@ -93,11 +93,11 @@
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lab 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;fontSize=19;spacingBottom=3;strokeWidth=2;" parent="SBJIOkQ2_eh-6NDm1D8v-94" vertex="1">
           <mxGeometry x="2" y="-46.75" width="84" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="SBJIOkQ2_eh-6NDm1D8v-96" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="SBJIOkQ2_eh-6NDm1D8v-94" vertex="1">
-          <mxGeometry x="27.207952035342352" y="-39.15909090909091" width="33.57526033449038" height="45.54545454545456" as="geometry" />
-        </mxCell>
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-178" value="Different environments&lt;div&gt;Real / Sim&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="SBJIOkQ2_eh-6NDm1D8v-94" vertex="1">
           <mxGeometry x="-26" y="38.5" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PFxtjB-Ogl9lNshXrnTc-31" value="&amp;lt;figure&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SBJIOkQ2_eh-6NDm1D8v-94">
+          <mxGeometry x="20" y="-40.870000000000005" width="48" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-97" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="310" y="699.12" width="139" height="92.75" as="geometry" />
@@ -138,8 +138,8 @@
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-109" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Lab 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=bottom;fontSize=19;spacingBottom=3;strokeWidth=2;" parent="SBJIOkQ2_eh-6NDm1D8v-108" vertex="1">
           <mxGeometry width="84" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="SBJIOkQ2_eh-6NDm1D8v-110" value="" style="shape=mxgraph.signs.science.microscope;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="SBJIOkQ2_eh-6NDm1D8v-108" vertex="1">
-          <mxGeometry x="25.207952035342352" y="7.590909090909092" width="33.57526033449038" height="45.54545454545456" as="geometry" />
+        <mxCell id="PFxtjB-Ogl9lNshXrnTc-30" value="&amp;lt;figure&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SBJIOkQ2_eh-6NDm1D8v-108">
+          <mxGeometry x="18" y="9.75" width="48" height="45.38" as="geometry" />
         </mxCell>
         <mxCell id="SBJIOkQ2_eh-6NDm1D8v-111" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="310" y="600.87" width="139" height="92.75" as="geometry" />
@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SBJIOkQ2_eh-6NDm1D8v-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=52.675000000000004;exitPerimeter=0;strokeWidth=2;" parent="1" source="SBJIOkQ2_eh-6NDm1D8v-113" edge="1">
+        <mxCell id="SBJIOkQ2_eh-6NDm1D8v-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=52.675000000000004;exitPerimeter=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SBJIOkQ2_eh-6NDm1D8v-113" edge="1" target="SBJIOkQ2_eh-6NDm1D8v-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="576.24" as="targetPoint" />
           </mxGeometry>
