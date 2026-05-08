@@ -311,7 +311,7 @@
           <mxGeometry height="22.75" width="50" x="623" y="359" as="geometry" />
         </mxCell>
         <mxCell id="Ha6gCeviKOSOT8BTJzAW-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;失败权重增加&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="181" x="526" y="379.75" as="geometry" />
+          <mxGeometry height="30" width="181" x="525" y="379.75" as="geometry" />
         </mxCell>
         <mxCell id="Ha6gCeviKOSOT8BTJzAW-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" value="失败" vertex="1">
           <mxGeometry height="16.63" width="50" x="554" y="523" as="geometry" />
@@ -320,7 +320,7 @@
           <mxGeometry height="47.38" width="50" x="624" y="492" as="geometry" />
         </mxCell>
         <mxCell id="Ha6gCeviKOSOT8BTJzAW-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;成功权重增加&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="206" x="517" y="537.63" as="geometry" />
+          <mxGeometry height="30" width="206" x="512" y="537.63" as="geometry" />
         </mxCell>
         <mxCell id="Ha6gCeviKOSOT8BTJzAW-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#FFFFFF;" value="失败" vertex="1">
           <mxGeometry height="30.75" width="50" x="553" y="426" as="geometry" />
@@ -329,7 +329,7 @@
           <mxGeometry height="31.5" width="50" x="623" y="426" as="geometry" />
         </mxCell>
         <mxCell id="Ha6gCeviKOSOT8BTJzAW-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;失败和成功权重均等&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="181" x="526" y="457.5" as="geometry" />
+          <mxGeometry height="30" width="181" x="525" y="457.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
