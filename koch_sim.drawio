@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" scale="1" border="0">
   <diagram name="第 1 页" id="q93QsF6TZU6JqyeZVSqc">
-    <mxGraphModel dx="660" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2009" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry height="10" width="27.69" x="645.0700000000002" y="280" as="geometry" />
         </mxCell>
         <mxCell id="5SFDBS2DRBjifI6Kmwl1-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1;fontColor=#33001A;labelBackgroundColor=light-dark(#007FFF,#0008FF);" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;侧面视角相机&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="125.07" x="760" y="380" as="geometry" />
+          <mxGeometry height="20" width="83.33" x="793.3399999999999" y="380" as="geometry" />
         </mxCell>
         <mxCell id="5SFDBS2DRBjifI6Kmwl1-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=9.14;notch=0;strokeColor=none;fillColor=light-dark(#007FFF,#0008FF);rotation=-40;" value="" vertex="1">
           <mxGeometry height="10" width="27.69" x="839.9976270189222" y="360.0001217153955" as="geometry" />
